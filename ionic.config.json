@@ -1,0 +1,7 @@
+{
+  "name": "brick-game-999-simulator",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
